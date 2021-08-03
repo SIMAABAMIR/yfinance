@@ -8,4 +8,4 @@ Install ``yfinance`` using ``pip``:
 
 .. code:: bash
 
-    $ pip install yfinance --upgrade --no-cache-dir
+    $ pip install yfinance --upgrade
