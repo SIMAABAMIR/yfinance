@@ -1,11 +1,12 @@
-# yfinance
-Python program to get last close price of a ticker from yahoo finance.
+# yahoo finance API
+Python program to get close price / previous day close price of a ticker from yahoo finance.
 
-Installation
+Usage
 ------------
 
-Install ``yfinance`` using ``pip``:
+Run the python script :
+$python yahoo_finance_python.py
 
-.. code:: bash
-
-    $ pip install yfinance --upgrade
+Reference
+------------
+https://rapidapi.com/apidojo/api/yahoo-finance1/
