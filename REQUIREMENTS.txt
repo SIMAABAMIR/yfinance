@@ -1,0 +1,5 @@
+#requests version
+requests==2.26.0
+
+#json version
+json==2.0.9
