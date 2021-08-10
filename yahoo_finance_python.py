@@ -16,7 +16,7 @@ try:
         'x-rapidapi-host': "apidojo-yahoo-finance-v1.p.rapidapi.com"
         }
 
-    response = requests.request("GET", url, headers=headers, params=querystring)
+    response = requests.get( url, headers=headers, params=querystring)
 
     # Use the json module to load response into a dictionary.
     response_dict = json.loads(response.text)
